@@ -1,0 +1,10 @@
+{
+  "countries-spain": {
+    "message": "Spain",
+    "description": "Title for the Spanish country category"
+  },
+  "countries-us": {
+    "message": "United States",
+    "description": "Title for the US country category"
+  }
+}
