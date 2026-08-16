@@ -2,3 +2,4 @@ files:
   - source: /strings/en-US.json
     translation: /strings/%locale%.json
     type: chrome-extension
+    scheme: identifier,message,context
