@@ -1,0 +1,10 @@
+{
+  "countries-spain": {
+    "string": "Spain",
+    "description": "Title for the Spanish country category"
+  },
+  "countries-us": {
+    "string": "United States",
+    "description": "Title for the US country category"
+  }
+}
