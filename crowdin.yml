@@ -1,4 +1,3 @@
 files:
-  - source: /strings/en-US.json
-    translation: /strings/%locale%.json
-    type: chrome-extension
+  - source: /_locales/en-US/messages.json
+    translation: /_locales/%locale%/messages.json
